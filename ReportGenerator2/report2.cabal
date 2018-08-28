@@ -1,0 +1,12 @@
+name:           report2
+version:        0.1
+cabal-version:  >=1.2
+build-type:     Simple
+author:         Diego
+
+executable report2
+  hs-source-dirs:  src
+  main-is:         Main.hs
+  build-depends:   base >= 4
+  ghc-options:     -Wall
+
